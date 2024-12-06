@@ -21,15 +21,22 @@ Mac 最新版下载地址：[mac618.com](https://www.mac618.com/481.html#J_DLIPP
 
 ## Windows
 
+### 方法一：
 1. 下载 [Typora 1.9.4 安装文件](win64/typora-setup-x64-1.9.4.exe)，并记住安装路径。
 2. 下载 [winmm.dll](win64/winmm.dll)，并将其替换到 Typora 安装路径下包含 `typora.exe` 的文件夹中。
 3. 重启 Typora，即可激活。
 4. **有条件的情况下，请支持正版，支持开发者！**
 
+### 方法二：
+
+注册码方法：
+https://github.com/743859910/Typora_Unlocker
+
 ## 相关项目和资源
 
 - [GitHub - markyin0707/typora-activation](https://github.com/markyin0707/typora-activation)
 - [GitHub - amazingcoderpro/TyproaCrack](https://github.com/amazingcoderpro/TyproaCrack)
+- [743859910/Typora_Unlocker](https://github.com/743859910/Typora_Unlocker)
 - [Typora 最新版下载](https://www.mac618.com/481.html#J_DLIPPCont)
 
 ## GitHub Star History
